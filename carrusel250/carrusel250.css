@@ -1,0 +1,26 @@
+.imagen {
+  
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+    opacity: 0;
+    position: absolute;
+}
+
+
+
+#lago{
+    background: url(../imatges/paisatge1_250.gif) no-repeat; 
+}
+
+#globo {
+    background: url(../imatges/paisatge2_250.gif) no-repeat; 
+}
+
+#montaña {
+    background: url(../imatges/paisatge3_250.gif) no-repeat; 
+}
+
+#cascada {
+    background: url(../imatges/paisatge4_250.gif)no-repeat;
+}
